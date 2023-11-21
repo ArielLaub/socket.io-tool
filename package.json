@@ -1,6 +1,6 @@
 {
   "name": "socket.io-tool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "socket.io command line utility for testing and debugging",
   "main": "/dist/tool.js",
   "scripts": {
