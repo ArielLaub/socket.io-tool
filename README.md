@@ -9,7 +9,7 @@ npm install -g socket.io-tool
 ```
 
 ## Run
-socket.io-tool <url>
+socket.io-tool [url]
 ```bash
 socket.io-tool http://localhost:3000
 Connected to the server
