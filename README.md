@@ -6,3 +6,6 @@ A command line utility written in TypeScript for interacting with a server using
 
 ```bash
 npm install -g socket.io-tool
+
+## Run
+socket.io-tool <url>
